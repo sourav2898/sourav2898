@@ -12,7 +12,7 @@
 Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda.
 
 ```javascript
-const anmol = {
+const sourav = {
   pronouns: "He" | "Him",
   code: ["TypeScript", "Javascript", "React", "Next"],
   askMeAbout: ["web dev", "app dev", "cloud computing", "UI/UX", "tech trends"],
