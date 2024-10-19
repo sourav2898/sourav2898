@@ -4,7 +4,7 @@
 </em></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/souravkuma24171?label=Follow)](https://x.com/intent/follow?screen_name=souravkuma24171)
-[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sourav-kumar-b514a0184/)](https://www.linkedin.com/in/sourav-kumar-b514a0184/)
+[![Linkedin: anmol](https://img.shields.io/badge/sourav-kumar-b514a0184?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sourav-kumar-b514a0184/)](https://www.linkedin.com/in/sourav-kumar-b514a0184/)
 ![GitHub followers](https://img.shields.io/github/followers/sourav2898?label=Follow&style=social)
 
 ### 📫 Like to meet me?
