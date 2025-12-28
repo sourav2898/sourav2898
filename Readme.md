@@ -14,16 +14,17 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 ```javascript
 const sourav = {
   pronouns: "He" | "Him",
-  code: ["TypeScript", "Javascript", "React", "Next"],
+  code: ["TypeScript", "Javascript", "React", "Next", "Node", "Express", "Nest"],
   askMeAbout: ["web dev", "app dev", "cloud computing", "UI/UX", "tech trends"],
   technologies: {
     frontEnd: {
       js: ["React", "Next.js"],
       css: ["Sass", "Tailwind"],
       uiLibraries: ["Material UI", "Shadcn-ui", "Magic UI"],
+      cdns: ["Cloud Front", "Cloudinary", "Cloud Flare"]
     },
     backEnd: {
-      js: ["Node", "Express"],
+      js: ["Node", "Express", "Nest"],
     },
     mobileApp: {
       crossPlatform: ["React Native"],
