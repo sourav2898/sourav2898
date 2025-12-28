@@ -6,6 +6,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/souravkrdubey?label=Follow)](https://x.com/intent/follow?screen_name=souravkrdubey)
 [![Linkedin: sourav](https://img.shields.io/badge/sourav-kumar-b514a0184?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/souravkrdubey/)](https://www.linkedin.com/in/souravkrdubey/)
 ![GitHub followers](https://img.shields.io/github/followers/sourav2898?label=Follow&style=social)
+[![Portfolio]( https://img.shields.io/badge/souravkr.com-8A2BE2)](https://souravkr.com)
 
 ### 📫 Like to meet me?
 
